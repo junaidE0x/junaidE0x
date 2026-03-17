@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity_Tools-232F3E?style=flat-square&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend_Development-4B8BBE?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP_Design_Principles-FF6F00?style=flat-square&logo=abstract&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Fundamentals-FF6F00?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Fundamentals-32CD32?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
